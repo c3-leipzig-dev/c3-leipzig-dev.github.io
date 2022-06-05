@@ -1,1 +1,1 @@
-# c3-leipzig-dev.github.io
+# C3 Leipzig
