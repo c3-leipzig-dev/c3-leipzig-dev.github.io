@@ -19,15 +19,3 @@
 #### CPM:      _Cuts Per Minute_
 #### CallTime: _Rest-Zeit bis die Warnung erscheint_
 
-
-
-
-## `Irgend Was Anderes`
-#### _sdfghsgfiusdgfihusfdg_
-### [Download](https://www.google.com)
-
-#### TALC:     _Time After Last Cut_
-#### ASBC:     _Average Time Between Cuts_
-#### CPM:      _Cuts Per Minute_
-#### CallTime: _Rest-Zeit bis die Warnung erscheint_
-
