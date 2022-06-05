@@ -8,10 +8,10 @@
 
 ### How To Use
 #### _Fenster so skalieren das es über das ganze Kamera Dashboard gelegt ist_
-![alt text](https://github.com/c3-leipzig-dev/c3-leipzig-dev.github.io/blob/main/SAEPImg/SAEP2.png)
-![alt text](https://github.com/c3-leipzig-dev/c3-leipzig-dev.github.io/blob/main/SAEPImg/SAEP3.png)
+![alt text](https://github.com/c3-leipzig-dev/c3-leipzig-dev.github.io/blob/main/SAEPImg/SAEP2.png?raw=true)
+![alt text](https://github.com/c3-leipzig-dev/c3-leipzig-dev.github.io/blob/main/SAEPImg/SAEP3.png?raw=true)
 #### _Den "Starten" Button drücken_
-![alt text](https://github.com/c3-leipzig-dev/c3-leipzig-dev.github.io/blob/main/SAEPImg/SAEP4.png)
+![alt text](https://github.com/c3-leipzig-dev/c3-leipzig-dev.github.io/blob/main/SAEPImg/SAEP4.png?raw=true)
 #### _Das Programm erkennt nun automatisch jeden Cut. Nach 25 sekunden Inaktivität fängt der CallToCut Indicator an zu blinken und ein Ton erscheint_
 
 #### TALC:     _Time After Last Cut_
