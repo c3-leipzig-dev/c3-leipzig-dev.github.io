@@ -30,3 +30,4 @@
 #### ASBC:     _Average Time Between Cuts_
 #### CPM:      _Cuts Per Minute_
 #### CallTime: _Rest-Zeit bis die Warnung erscheint_
+
